@@ -3,7 +3,7 @@ Foodspotting
 
 ## Start by drawing
 
-Print out [mockup.jpg] and use a pencil to draw a box for EVERY element you think belongs on the page. That means EVERYTHING
+Print out [mockup.jpg]() and use a pencil to draw a box for EVERY element you think belongs on the page. That means EVERYTHING
 
 ## Add thee tags
 
