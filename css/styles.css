@@ -1,0 +1,79 @@
+
+
+
+nav {
+    width: 100%;
+    border-bottom: 1px solid gray;
+    display: inline-block;
+    padding-bottom: 3px;
+
+}
+
+.nav-container {
+    vertical-align: top;
+}
+
+.logo {
+    display: inline-block;
+}
+
+
+.find p {
+    font-size: 12px;
+    display: inline-block;
+    width: 60px;
+    padding-right: 10px;
+    padding-top: -2px;
+    text-align: center;
+    margin-top: 4px;
+    font-weight: bold;
+
+}
+
+.find {
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+}
+
+span {
+    font-size: 9px;
+    color: gray;
+    font-weight: normal;
+}
+
+
+body {
+    font-family: Helvetica;
+    background-color: #F0F0F0;
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 45px;
+    margin-bottom: 2px;
+}
+
+.photo-set img {
+    height: 200px;
+    width: 200px;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+
+}
+
+.photo-set {
+    width: 410px;
+    margin: 4px auto;
+    background-color: gray;
+}
+
+.content {
+    background-color: white;
+    padding-top: 1px;
+    padding-left: 5px;
+    width: 420px;
+    margin: auto;
+}
