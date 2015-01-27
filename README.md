@@ -9,7 +9,7 @@ Print out [mockup.jpg]() and use a pencil to draw a box for EVERY element you th
 
 Once you have your boxes defined, start adding HTML elements to your `index.html` page. Don't worry about styling. Just add tags where they need to go. If it helps, add a single CSS rule that puts a border around everything, like this:
 
-```
+```css
 * {
     border: 1px solid blue;
 }
